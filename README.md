@@ -1,3 +1,4 @@
+# Final Project
 # Emotion Detection
 
 ## Project Description
